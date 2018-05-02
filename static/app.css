@@ -15,7 +15,7 @@ html { overflow-y: hidden; }
   z-index: 1; /* Stay on top */
   top: 8%; /* Stay at the top */
   left: 0;
-  background-color: rgba(0,0,0,0); 
+  background-color: rgba(255,80,128,0); 
   overflow-x: hidden; /* Disable horizontal scroll */
  color:	#FFFF00
 }
